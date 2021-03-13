@@ -1,0 +1,6 @@
+/Users/fede/Documents/GitHub/CAI-Repaso-1/Solucion/Solucion/bin/Debug/Solucion.exe
+/Users/fede/Documents/GitHub/CAI-Repaso-1/Solucion/Solucion/bin/Debug/Solucion.pdb
+/Users/fede/Documents/GitHub/CAI-Repaso-1/Solucion/Solucion/obj/Debug/Solucion.csprojAssemblyReference.cache
+/Users/fede/Documents/GitHub/CAI-Repaso-1/Solucion/Solucion/obj/Debug/Solucion.csproj.CoreCompileInputs.cache
+/Users/fede/Documents/GitHub/CAI-Repaso-1/Solucion/Solucion/obj/Debug/Solucion.exe
+/Users/fede/Documents/GitHub/CAI-Repaso-1/Solucion/Solucion/obj/Debug/Solucion.pdb
